@@ -7,4 +7,4 @@ saves
 crafttweaker.log
 minecraftinstance.json
 options.txt
-config/BiomeTweaker/output/*
+#config/BiomeTweaker/output/*
