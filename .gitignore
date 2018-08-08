@@ -7,4 +7,9 @@ saves
 crafttweaker.log
 minecraftinstance.json
 options.txt
+usercache.json
+usernamecache.json
 config/BiomeTweaker/output/*
+config/jei/worldSettings.cfg
+config/advRocketry/asteroidConfig.xml
+config/advRocketry/oreConfig.xml
